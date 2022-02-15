@@ -1,5 +1,5 @@
 <?php
-define('base_url', 'http://localhost/ASY NEW/public');
+define('base_url', 'http://localhost/SISTEM MANAJEMEN KEAMANAN SANTRI/public');
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
